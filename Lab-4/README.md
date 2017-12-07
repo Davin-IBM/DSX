@@ -1,6 +1,6 @@
 ## Instructions:
 For Lab 4, there is a choice of two labs. Both labs will use passenger data from the Titanic. This is a common data set
-used in Kaggle competitions. Please choose one of the following labs. The description of each lab and a pointer to the instructions are documented below. 
+used in [Kaggle competitions](https://www.kaggle.com/). Please choose one of the following labs. The description of each lab and a pointer to the instructions are documented below. 
 
 1. Watson Machine Learning lab  
 2. DSX SPSS Modeler Lab
